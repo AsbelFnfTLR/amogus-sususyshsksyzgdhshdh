@@ -1,0 +1,3 @@
+Value 1: mp4 name in videos folder
+Value 2: how many seconds until it leaves
+
