@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LINK PORTRAITS.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LINK NEUTRAL0000" x="0" y="0" width="444" height="577"/>
+	<SubTexture name="LINK QUESTION0000" x="494" y="0" width="444" height="574"/>
+</TextureAtlas>

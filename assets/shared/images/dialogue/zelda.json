@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-140,
+		-20
+	],
+	"scale": 0.95,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "ZELDA NEUTRAL",
+			"idle_name": "ZELDA NEUTRAL"
+		},
+		{
+			"loop_name": "ZELDA SAD",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ZELDA SAD",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ZELDA SIGH",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ZELDA SIGH",
+			"anim": "sigh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "ZELDA PORTRAITS"
+}

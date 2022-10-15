@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		140,
+		-70
+	],
+	"scale": 0.95,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "LINK NEUTRAL",
+			"idle_name": "LINK NEUTRAL"
+		},
+		{
+			"loop_name": "LINK QUESTION",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "LINK QUESTION",
+			"anim": "question",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "LINK PORTRAITS"
+}

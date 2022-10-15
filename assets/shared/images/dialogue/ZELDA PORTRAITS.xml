@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ZELDA PORTRAITS.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ZELDA NEUTRAL0000" x="0" y="0" width="428" height="544"/>
+	<SubTexture name="ZELDA SAD0000" x="478" y="0" width="429" height="540"/>
+	<SubTexture name="ZELDA SIGH0000" x="957" y="0" width="429" height="535"/>
+</TextureAtlas>
