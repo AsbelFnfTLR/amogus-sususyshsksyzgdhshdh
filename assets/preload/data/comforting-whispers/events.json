@@ -1,0 +1,111 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom (Sine)",
+						"1.6",
+						"14"
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Set Cam ZoomBoom",
+						"1.4",
+						"2"
+					]
+				]
+			],
+			[
+				56400,
+				[
+					[
+						"Set Cam Zoom (circ)",
+						"1",
+						"2.5"
+					]
+				]
+			],
+			[
+				85200,
+				[
+					[
+						"Set Cam Zoom (circ)",
+						"1.4",
+						"2.5"
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Set Cam Zoom (circ)",
+						"1.6",
+						"2.5"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Set Cam ZoomBoom",
+						"1.4",
+						"2"
+					]
+				]
+			],
+			[
+				158400,
+				[
+					[
+						"Set Cam Zoom (Sine)",
+						"1.8",
+						"14"
+					]
+				]
+			],
+			[
+				172800,
+				[
+					[
+						"Set Cam ZoomBoom",
+						"1",
+						"3.65"
+					]
+				]
+			],
+			[
+				188400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"link-end"
+					],
+					[
+						"Play Animation",
+						"end",
+						"bf"
+					]
+				]
+			],
+			[
+				189000,
+				[
+					[
+						"Camera Follow Pos",
+						"70",
+						"-600"
+					]
+				]
+			]
+		]
+	}
+}

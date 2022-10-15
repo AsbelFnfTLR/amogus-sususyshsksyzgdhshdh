@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "I’m sorry you had to see me get emotional like that.\r\n",
+			"boxState": "normal",
+			"sound": "zel_byte",
+			"speed": 0.04,
+			"portrait": "zelda"
+		},
+		{
+			"expression": "sad",
+			"text": "I just wish my father could see how hard I’m trying to awaken this cursed power…...",
+			"boxState": "normal",
+			"sound": "zel_byte",
+			"speed": 0.045,
+			"portrait": "zelda"
+		},
+		{
+			"expression": "sigh",
+			"text": "*sigh* I need to take a break. pouting about will get me nowhere.",
+			"boxState": "normal",
+			"sound": "zel_byte",
+			"speed": 0.05,
+			"portrait": "zelda"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "link"
+		},
+		{
+			"expression": "talk",
+			"text": "-…Link, I don’t mean to be a bother but.",
+			"boxState": "normal",
+			"sound": "zel_byte",
+			"speed": 0.05,
+			"portrait": "zelda"
+		},
+		{
+			"expression": "talk",
+			"text": "Do you think you could..",
+			"boxState": "normal",
+			"sound": "zel_byte",
+			"speed": 0.05,
+			"portrait": "zelda"
+		},
+		{
+			"expression": "sad",
+			"text": "..Sing me that song you always used to sing for me?",
+			"boxState": "normal",
+			"sound": "zel_byte",
+			"speed": 0.05,
+			"portrait": "zelda"
+		},
+		{
+			"expression": "question",
+			"text": "?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "link"
+		},
+		{
+			"expression": "sigh",
+			"text": "Sorry I know it’s a bit of an odd request but..",
+			"boxState": "normal",
+			"sound": "zel_byte",
+			"speed": 0.05,
+			"portrait": "zelda"
+		},
+		{
+			"expression": "sad",
+			"text": "I’d really appreciate it.",
+			"boxState": "normal",
+			"sound": "zel_byte",
+			"speed": 0.05,
+			"portrait": "zelda"
+		}
+	]
+}
