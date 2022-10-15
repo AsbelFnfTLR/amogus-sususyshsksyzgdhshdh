@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-3
+			],
+			"anim": "end",
+			"fps": 24,
+			"name": "LINK alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-3
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "LINK alt",
+			"indices": [
+				18,
+				18
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/link ending",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "link",
+	"flip_x": true,
+	"healthbar_colors": [
+		114,
+		155,
+		220
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
