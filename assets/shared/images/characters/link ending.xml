@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="link ending.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LINK alt0000" x="0" y="0" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0001" x="444" y="0" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0002" x="888" y="0" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0003" x="888" y="0" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0004" x="1332" y="0" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0005" x="1332" y="0" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0006" x="0" y="683" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0007" x="444" y="683" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0008" x="888" y="683" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0009" x="888" y="683" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0010" x="1332" y="683" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0011" x="1332" y="683" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0012" x="0" y="1366" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0013" x="0" y="1366" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0014" x="444" y="1366" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0015" x="444" y="1366" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0016" x="444" y="1366" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0017" x="444" y="1366" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+	<SubTexture name="LINK alt0018" x="444" y="1366" width="394" height="633" frameX="0" frameY="-1" frameWidth="394" frameHeight="634"/>
+</TextureAtlas>

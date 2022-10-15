@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LINK.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LINK DOWN0000" x="0" y="0" width="394" height="602" frameX="0" frameY="-4" frameWidth="394" frameHeight="606"/>
+	<SubTexture name="LINK DOWN0001" x="0" y="0" width="394" height="602" frameX="0" frameY="-4" frameWidth="394" frameHeight="606"/>
+	<SubTexture name="LINK DOWN0002" x="444" y="0" width="394" height="604" frameX="0" frameY="-2" frameWidth="394" frameHeight="606"/>
+	<SubTexture name="LINK DOWN0003" x="444" y="0" width="394" height="604" frameX="0" frameY="-2" frameWidth="394" frameHeight="606"/>
+	<SubTexture name="LINK DOWN0004" x="888" y="0" width="394" height="605" frameX="0" frameY="-1" frameWidth="394" frameHeight="606"/>
+	<SubTexture name="LINK DOWN0005" x="888" y="0" width="394" height="605" frameX="0" frameY="-1" frameWidth="394" frameHeight="606"/>
+	<SubTexture name="LINK DOWN0006" x="1332" y="0" width="394" height="606"/>
+	<SubTexture name="LINK DOWN0007" x="1332" y="0" width="394" height="606"/>
+	<SubTexture name="LINK DOWN0008" x="1332" y="0" width="394" height="606"/>
+	<SubTexture name="LINK DOWN0009" x="1332" y="0" width="394" height="606"/>
+	<SubTexture name="LINK DOWN0010" x="1332" y="0" width="394" height="606"/>
+	<SubTexture name="LINK DOWN0011" x="1332" y="0" width="394" height="606"/>
+	<SubTexture name="LINK DOWN0012" x="1332" y="0" width="394" height="606"/>
+	<SubTexture name="LINK DOWN0013" x="1332" y="0" width="394" height="606"/>
+	<SubTexture name="LINK DOWN0014" x="1332" y="0" width="394" height="606"/>
+	<SubTexture name="LINK DOWN MISS0000" x="0" y="0" width="394" height="602" frameX="0" frameY="0" frameWidth="394" frameHeight="606"/>
+	<SubTexture name="LINK DOWN MISS0001" x="0" y="0" width="394" height="602" frameX="0" frameY="0" frameWidth="394" frameHeight="606"/>
+	<SubTexture name="LINK DOWN MISS0002" x="1776" y="0" width="394" height="598" frameX="0" frameY="-4" frameWidth="394" frameHeight="602"/>
+	<SubTexture name="LINK DOWN MISS0003" x="1776" y="0" width="394" height="598" frameX="0" frameY="-4" frameWidth="394" frameHeight="602"/>
+	<SubTexture name="LINK DOWN MISS0004" x="2220" y="0" width="394" height="598" frameX="0" frameY="-4" frameWidth="394" frameHeight="602"/>
+	<SubTexture name="LINK DOWN MISS0005" x="2220" y="0" width="394" height="598" frameX="0" frameY="-4" frameWidth="394" frameHeight="602"/>
+	<SubTexture name="LINK DOWN MISS0006" x="2664" y="0" width="394" height="598" frameX="0" frameY="-4" frameWidth="394" frameHeight="602"/>
+	<SubTexture name="LINK DOWN MISS0007" x="2664" y="0" width="394" height="598" frameX="0" frameY="-4" frameWidth="394" frameHeight="602"/>
+	<SubTexture name="LINK DOWN MISS0008" x="3108" y="0" width="394" height="598" frameX="0" frameY="-4" frameWidth="394" frameHeight="602"/>
+	<SubTexture name="LINK DOWN MISS0009" x="3108" y="0" width="394" height="598" frameX="0" frameY="-4" frameWidth="394" frameHeight="602"/>
+	<SubTexture name="LINK DOWN MISS0010" x="3108" y="0" width="394" height="598" frameX="0" frameY="-4" frameWidth="394" frameHeight="602"/>
+	<SubTexture name="LINK DOWN MISS0011" x="3108" y="0" width="394" height="598" frameX="0" frameY="-4" frameWidth="394" frameHeight="602"/>
+	<SubTexture name="LINK DOWN MISS0012" x="3108" y="0" width="394" height="598" frameX="0" frameY="-4" frameWidth="394" frameHeight="602"/>
+	<SubTexture name="LINK DOWN MISS0013" x="3108" y="0" width="394" height="598" frameX="0" frameY="-4" frameWidth="394" frameHeight="602"/>
+	<SubTexture name="LINK DOWN MISS0014" x="3108" y="0" width="394" height="598" frameX="0" frameY="-4" frameWidth="394" frameHeight="602"/>
+	<SubTexture name="LINK IDLE0000" x="3552" y="0" width="394" height="613" frameX="0" frameY="-5" frameWidth="394" frameHeight="618"/>
+	<SubTexture name="LINK IDLE0001" x="0" y="663" width="394" height="612" frameX="0" frameY="-6" frameWidth="394" frameHeight="618"/>
+	<SubTexture name="LINK IDLE0002" x="444" y="663" width="394" height="612" frameX="0" frameY="-6" frameWidth="394" frameHeight="618"/>
+	<SubTexture name="LINK IDLE0003" x="888" y="663" width="394" height="613" frameX="0" frameY="-5" frameWidth="394" frameHeight="618"/>
+	<SubTexture name="LINK IDLE0004" x="1332" y="663" width="394" height="617" frameX="0" frameY="-1" frameWidth="394" frameHeight="618"/>
+	<SubTexture name="LINK IDLE0005" x="1332" y="663" width="394" height="617" frameX="0" frameY="-1" frameWidth="394" frameHeight="618"/>
+	<SubTexture name="LINK IDLE0006" x="1776" y="663" width="394" height="617" frameX="0" frameY="-1" frameWidth="394" frameHeight="618"/>
+	<SubTexture name="LINK IDLE0007" x="1776" y="663" width="394" height="617" frameX="0" frameY="-1" frameWidth="394" frameHeight="618"/>
+	<SubTexture name="LINK IDLE0008" x="2220" y="663" width="394" height="617" frameX="0" frameY="-1" frameWidth="394" frameHeight="618"/>
+	<SubTexture name="LINK IDLE0009" x="2664" y="663" width="394" height="618"/>
+	<SubTexture name="LINK IDLE0010" x="2664" y="663" width="394" height="618"/>
+	<SubTexture name="LINK IDLE0011" x="2664" y="663" width="394" height="618"/>
+	<SubTexture name="LINK IDLE0012" x="2664" y="663" width="394" height="618"/>
+	<SubTexture name="LINK IDLE0013" x="2664" y="663" width="394" height="618"/>
+	<SubTexture name="LINK IDLE0014" x="3108" y="663" width="394" height="618"/>
+	<SubTexture name="LINK LEFT0000" x="3552" y="663" width="394" height="609" frameX="0" frameY="-3" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT0001" x="3552" y="663" width="394" height="609" frameX="0" frameY="-3" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT0002" x="0" y="1331" width="394" height="611" frameX="0" frameY="-1" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT0003" x="0" y="1331" width="394" height="611" frameX="0" frameY="-1" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT0004" x="444" y="1331" width="394" height="612"/>
+	<SubTexture name="LINK LEFT0005" x="444" y="1331" width="394" height="612"/>
+	<SubTexture name="LINK LEFT0006" x="888" y="1331" width="394" height="612"/>
+	<SubTexture name="LINK LEFT0007" x="888" y="1331" width="394" height="612"/>
+	<SubTexture name="LINK LEFT0008" x="1332" y="1331" width="394" height="612"/>
+	<SubTexture name="LINK LEFT0009" x="1776" y="1331" width="394" height="612"/>
+	<SubTexture name="LINK LEFT0010" x="1776" y="1331" width="394" height="612"/>
+	<SubTexture name="LINK LEFT0011" x="1776" y="1331" width="394" height="612"/>
+	<SubTexture name="LINK LEFT0012" x="1776" y="1331" width="394" height="612"/>
+	<SubTexture name="LINK LEFT0013" x="1776" y="1331" width="394" height="612"/>
+	<SubTexture name="LINK LEFT0014" x="1776" y="1331" width="394" height="612"/>
+	<SubTexture name="LINK LEFT MISS0000" x="2220" y="1331" width="394" height="609" frameX="0" frameY="-3" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT MISS0001" x="2220" y="1331" width="394" height="609" frameX="0" frameY="-3" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT MISS0002" x="2664" y="1331" width="394" height="605" frameX="0" frameY="-7" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT MISS0003" x="2664" y="1331" width="394" height="605" frameX="0" frameY="-7" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT MISS0004" x="3108" y="1331" width="394" height="605" frameX="0" frameY="-7" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT MISS0005" x="3108" y="1331" width="394" height="605" frameX="0" frameY="-7" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT MISS0006" x="3552" y="1331" width="394" height="605" frameX="0" frameY="-7" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT MISS0007" x="3552" y="1331" width="394" height="605" frameX="0" frameY="-7" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT MISS0008" x="0" y="1993" width="394" height="605" frameX="0" frameY="-7" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT MISS0009" x="0" y="1993" width="394" height="605" frameX="0" frameY="-7" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT MISS0010" x="0" y="1993" width="394" height="605" frameX="0" frameY="-7" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT MISS0011" x="0" y="1993" width="394" height="605" frameX="0" frameY="-7" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT MISS0012" x="0" y="1993" width="394" height="605" frameX="0" frameY="-7" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK LEFT MISS0013" x="0" y="1993" width="394" height="605" frameX="0" frameY="-7" frameWidth="394" frameHeight="612"/>
+	<SubTexture name="LINK RIGHT0000" x="444" y="1993" width="453" height="638" frameX="0" frameY="-1" frameWidth="453" frameHeight="639"/>
+	<SubTexture name="LINK RIGHT0001" x="444" y="1993" width="453" height="638" frameX="0" frameY="-1" frameWidth="453" frameHeight="639"/>
+	<SubTexture name="LINK RIGHT0002" x="947" y="1993" width="453" height="638" frameX="0" frameY="-1" frameWidth="453" frameHeight="639"/>
+	<SubTexture name="LINK RIGHT0003" x="947" y="1993" width="453" height="638" frameX="0" frameY="-1" frameWidth="453" frameHeight="639"/>
+	<SubTexture name="LINK RIGHT0004" x="1450" y="1993" width="453" height="639"/>
+	<SubTexture name="LINK RIGHT0005" x="1450" y="1993" width="453" height="639"/>
+	<SubTexture name="LINK RIGHT0006" x="1953" y="1993" width="453" height="639"/>
+	<SubTexture name="LINK RIGHT0007" x="1953" y="1993" width="453" height="639"/>
+	<SubTexture name="LINK RIGHT0008" x="2456" y="1993" width="453" height="639"/>
+	<SubTexture name="LINK RIGHT0009" x="2456" y="1993" width="453" height="639"/>
+	<SubTexture name="LINK RIGHT0010" x="2456" y="1993" width="453" height="639"/>
+	<SubTexture name="LINK RIGHT0011" x="2456" y="1993" width="453" height="639"/>
+	<SubTexture name="LINK RIGHT0012" x="2456" y="1993" width="453" height="639"/>
+	<SubTexture name="LINK RIGHT0013" x="2456" y="1993" width="453" height="639"/>
+	<SubTexture name="LINK RIGHT0014" x="2456" y="1993" width="453" height="639"/>
+	<SubTexture name="LINK RIGHT MISS0000" x="444" y="1993" width="453" height="638" frameX="0" frameY="-9" frameWidth="453" frameHeight="639"/>
+	<SubTexture name="LINK RIGHT MISS0001" x="444" y="1993" width="453" height="638" frameX="0" frameY="-9" frameWidth="453" frameHeight="639"/>
+	<SubTexture name="LINK RIGHT MISS0002" x="2959" y="1993" width="453" height="622" frameX="0" frameY="-25" frameWidth="453" frameHeight="647"/>
+	<SubTexture name="LINK RIGHT MISS0003" x="2959" y="1993" width="453" height="622" frameX="0" frameY="-25" frameWidth="453" frameHeight="647"/>
+	<SubTexture name="LINK RIGHT MISS0004" x="3462" y="1993" width="453" height="622" frameX="0" frameY="-25" frameWidth="453" frameHeight="647"/>
+	<SubTexture name="LINK RIGHT MISS0005" x="3462" y="1993" width="453" height="622" frameX="0" frameY="-25" frameWidth="453" frameHeight="647"/>
+	<SubTexture name="LINK RIGHT MISS0006" x="0" y="2682" width="453" height="622" frameX="0" frameY="-25" frameWidth="453" frameHeight="647"/>
+	<SubTexture name="LINK RIGHT MISS0007" x="0" y="2682" width="453" height="622" frameX="0" frameY="-25" frameWidth="453" frameHeight="647"/>
+	<SubTexture name="LINK RIGHT MISS0008" x="503" y="2682" width="453" height="622" frameX="0" frameY="-25" frameWidth="453" frameHeight="647"/>
+	<SubTexture name="LINK RIGHT MISS0009" x="503" y="2682" width="453" height="622" frameX="0" frameY="-25" frameWidth="453" frameHeight="647"/>
+	<SubTexture name="LINK RIGHT MISS0010" x="503" y="2682" width="453" height="622" frameX="0" frameY="-25" frameWidth="453" frameHeight="647"/>
+	<SubTexture name="LINK RIGHT MISS0011" x="503" y="2682" width="453" height="622" frameX="0" frameY="-25" frameWidth="453" frameHeight="647"/>
+	<SubTexture name="LINK RIGHT MISS0012" x="503" y="2682" width="453" height="622" frameX="0" frameY="-25" frameWidth="453" frameHeight="647"/>
+	<SubTexture name="LINK RIGHT MISS0013" x="503" y="2682" width="453" height="622" frameX="0" frameY="-25" frameWidth="453" frameHeight="647"/>
+	<SubTexture name="LINK RIGHT MISS0014" x="503" y="2682" width="453" height="622" frameX="0" frameY="-25" frameWidth="453" frameHeight="647"/>
+	<SubTexture name="LINK UP0000" x="1006" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP0001" x="1006" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP0002" x="1450" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP0003" x="1450" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP0004" x="1894" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP0005" x="1894" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP0006" x="2338" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP0007" x="2338" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP0008" x="2338" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP0009" x="2338" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP0010" x="2338" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP0011" x="2338" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP0012" x="2338" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP0013" x="2338" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP0014" x="2338" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP MISS0000" x="2782" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP MISS0001" x="2782" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP MISS0002" x="3226" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP MISS0003" x="3226" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP MISS0004" x="3670" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP MISS0005" x="3670" y="2682" width="394" height="645"/>
+	<SubTexture name="LINK UP MISS0006" x="0" y="3377" width="394" height="645"/>
+	<SubTexture name="LINK UP MISS0007" x="0" y="3377" width="394" height="645"/>
+	<SubTexture name="LINK UP MISS0008" x="444" y="3377" width="394" height="645"/>
+	<SubTexture name="LINK UP MISS0009" x="444" y="3377" width="394" height="645"/>
+	<SubTexture name="LINK UP MISS0010" x="444" y="3377" width="394" height="645"/>
+	<SubTexture name="LINK UP MISS0011" x="444" y="3377" width="394" height="645"/>
+	<SubTexture name="LINK UP MISS0012" x="444" y="3377" width="394" height="645"/>
+	<SubTexture name="LINK UP MISS0013" x="444" y="3377" width="394" height="645"/>
+	<SubTexture name="LINK UP MISS0014" x="444" y="3377" width="394" height="645"/>
+</TextureAtlas>

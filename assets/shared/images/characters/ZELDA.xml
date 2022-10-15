@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ZELDA.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ZELDA DOWN0000" x="0" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA DOWN0001" x="0" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA DOWN0002" x="444" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA DOWN0003" x="444" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA DOWN0004" x="888" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA DOWN0005" x="888" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA DOWN0006" x="1332" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA DOWN0007" x="1332" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA DOWN0008" x="1332" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA DOWN0009" x="1332" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA DOWN0010" x="1332" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA DOWN0011" x="1332" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA DOWN0012" x="1332" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA DOWN0013" x="1332" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA DOWN0014" x="1332" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA IDLE0000" x="1776" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA IDLE0001" x="1776" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA IDLE0002" x="2220" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA IDLE0003" x="2220" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA IDLE0004" x="2664" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA IDLE0005" x="2664" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA IDLE0006" x="3108" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA IDLE0007" x="3108" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA IDLE0008" x="3552" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA IDLE0009" x="3552" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA IDLE0010" x="0" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA IDLE0011" x="0" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA IDLE0012" x="0" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA IDLE0013" x="0" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA IDLE0014" x="0" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA LEFT0000" x="444" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA LEFT0001" x="444" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA LEFT0002" x="888" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA LEFT0003" x="888" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA LEFT0004" x="1332" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA LEFT0005" x="1332" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA LEFT0006" x="1776" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA LEFT0007" x="1776" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA LEFT0008" x="1776" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA LEFT0009" x="1776" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA LEFT0010" x="1776" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA LEFT0011" x="1776" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA LEFT0012" x="1776" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA LEFT0013" x="1776" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA LEFT0014" x="1776" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA RIGHT0000" x="2220" y="640" width="447" height="614"/>
+	<SubTexture name="ZELDA RIGHT0001" x="2220" y="640" width="447" height="614"/>
+	<SubTexture name="ZELDA RIGHT0002" x="2717" y="640" width="446" height="613" frameX="0" frameY="-1" frameWidth="447" frameHeight="614"/>
+	<SubTexture name="ZELDA RIGHT0003" x="2717" y="640" width="446" height="613" frameX="0" frameY="-1" frameWidth="447" frameHeight="614"/>
+	<SubTexture name="ZELDA RIGHT0004" x="3213" y="640" width="446" height="613" frameX="0" frameY="-1" frameWidth="447" frameHeight="614"/>
+	<SubTexture name="ZELDA RIGHT0005" x="3213" y="640" width="446" height="613" frameX="0" frameY="-1" frameWidth="447" frameHeight="614"/>
+	<SubTexture name="ZELDA RIGHT0006" x="0" y="1304" width="446" height="613" frameX="0" frameY="-1" frameWidth="447" frameHeight="614"/>
+	<SubTexture name="ZELDA RIGHT0007" x="0" y="1304" width="446" height="613" frameX="0" frameY="-1" frameWidth="447" frameHeight="614"/>
+	<SubTexture name="ZELDA RIGHT0008" x="0" y="1304" width="446" height="613" frameX="0" frameY="-1" frameWidth="447" frameHeight="614"/>
+	<SubTexture name="ZELDA RIGHT0009" x="0" y="1304" width="446" height="613" frameX="0" frameY="-1" frameWidth="447" frameHeight="614"/>
+	<SubTexture name="ZELDA RIGHT0010" x="0" y="1304" width="446" height="613" frameX="0" frameY="-1" frameWidth="447" frameHeight="614"/>
+	<SubTexture name="ZELDA RIGHT0011" x="0" y="1304" width="446" height="613" frameX="0" frameY="-1" frameWidth="447" frameHeight="614"/>
+	<SubTexture name="ZELDA RIGHT0012" x="0" y="1304" width="446" height="613" frameX="0" frameY="-1" frameWidth="447" frameHeight="614"/>
+	<SubTexture name="ZELDA RIGHT0013" x="0" y="1304" width="446" height="613" frameX="0" frameY="-1" frameWidth="447" frameHeight="614"/>
+	<SubTexture name="ZELDA RIGHT0014" x="0" y="1304" width="446" height="613" frameX="0" frameY="-1" frameWidth="447" frameHeight="614"/>
+	<SubTexture name="ZELDA UP0000" x="496" y="1304" width="437" height="616"/>
+	<SubTexture name="ZELDA UP0001" x="496" y="1304" width="437" height="616"/>
+	<SubTexture name="ZELDA UP0002" x="983" y="1304" width="437" height="615" frameX="0" frameY="-1" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="ZELDA UP0003" x="983" y="1304" width="437" height="615" frameX="0" frameY="-1" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="ZELDA UP0004" x="1470" y="1304" width="437" height="615" frameX="0" frameY="-1" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="ZELDA UP0005" x="1470" y="1304" width="437" height="615" frameX="0" frameY="-1" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="ZELDA UP0006" x="1957" y="1304" width="437" height="614" frameX="0" frameY="-2" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="ZELDA UP0007" x="1957" y="1304" width="437" height="614" frameX="0" frameY="-2" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="ZELDA UP0008" x="1957" y="1304" width="437" height="614" frameX="0" frameY="-2" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="ZELDA UP0009" x="1957" y="1304" width="437" height="614" frameX="0" frameY="-2" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="ZELDA UP0010" x="1957" y="1304" width="437" height="614" frameX="0" frameY="-2" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="ZELDA UP0011" x="1957" y="1304" width="437" height="614" frameX="0" frameY="-2" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="ZELDA UP0012" x="1957" y="1304" width="437" height="614" frameX="0" frameY="-2" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="ZELDA UP0013" x="1957" y="1304" width="437" height="614" frameX="0" frameY="-2" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="ZELDA UP0014" x="1957" y="1304" width="437" height="614" frameX="0" frameY="-2" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="ZELDA entrance0000" x="2444" y="1304" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0001" x="2444" y="1304" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0002" x="2888" y="1304" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0003" x="2888" y="1304" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0004" x="3332" y="1304" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0005" x="3332" y="1304" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0006" x="0" y="1970" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0007" x="0" y="1970" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0008" x="444" y="1970" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0009" x="444" y="1970" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0010" x="888" y="1970" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0011" x="888" y="1970" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0012" x="1332" y="1970" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0013" x="1332" y="1970" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0014" x="1776" y="1970" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0015" x="1776" y="1970" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0016" x="2220" y="1970" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0017" x="2220" y="1970" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0018" x="2220" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0019" x="2220" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0020" x="2664" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0021" x="2664" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0022" x="3108" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0023" x="3108" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0024" x="3552" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0025" x="3552" y="0" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0026" x="0" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0027" x="0" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0028" x="0" y="640" width="394" height="590"/>
+	<SubTexture name="ZELDA entrance0029" x="0" y="640" width="394" height="590"/>
+</TextureAtlas>
